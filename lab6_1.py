@@ -1,12 +1,13 @@
 #Divisible by 7
-def div  if (m,m)
-   n= int (0)
-   while n > 0:
-      if num%n == 0 and num2%n==0:
-   return True if m % 7==) else False
+def divisible_by_7 (n):
+      if num%7 == 0:
+         return True
+      return False
+   
+divisible_by_7(7)
 
 #compare_it
-def div if ("int"):
+def compare_it if ("int"):
    pass
 else:
    print(flase)
